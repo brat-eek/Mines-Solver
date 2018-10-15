@@ -1,5 +1,5 @@
 # Mines-Solver
-Mines Ubuntu Solver bot
+Mines Ubuntu Solver bot | Windows Minesweeper
 
 Video demonstrating how to run the bot from terminal.
 
